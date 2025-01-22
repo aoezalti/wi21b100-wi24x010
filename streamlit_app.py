@@ -4,10 +4,10 @@ import numpy as np
 from sklearn.ensemble import RandomForestClassifier
 
 # Set the application title
-st.title('We ♥️ Machine Learning')
+st.title('We ♥️ Data Science')
 
 # Display information about the application
-st.info('Deploy Python ML models with Streamlit')
+st.info('Ayse Özaltin and Roy Liu')
 
 # Importing and displaying raw data
 with st.expander('Data'):
